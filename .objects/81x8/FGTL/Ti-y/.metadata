@@ -1,0 +1,15 @@
+﻿{
+  "Name": "Use_Case_3",
+  "Type": "Screen",
+  "Id": "Ti-y7zTBtkiLJp9dxIkCew",
+  "Reference": "5-uIzYoUE0CLJI6DiTjEAQ/Ti-y7zTBtkiLJp9dxIkCew",
+  "ParentRef": "5-uIzYoUE0CLJI6DiTjEAQ/FGTLR4T7gEyioOrWV0ci1Q",
+  "Created": "2025-01-16T03:19:06.2962144Z",
+  "Updated": "2025-01-16T03:19:10.8359648Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

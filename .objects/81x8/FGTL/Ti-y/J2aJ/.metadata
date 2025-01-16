@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Submit",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "J2aJmScN1EyZ_RudDXHagQ",
+  "Reference": "5-uIzYoUE0CLJI6DiTjEAQ/J2aJmScN1EyZ_RudDXHagQ",
+  "ParentRef": "5-uIzYoUE0CLJI6DiTjEAQ/Ti-y7zTBtkiLJp9dxIkCew",
+  "Created": "2025-01-16T03:19:42.5228195Z",
+  "Updated": "2025-01-16T03:19:42.5228195Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

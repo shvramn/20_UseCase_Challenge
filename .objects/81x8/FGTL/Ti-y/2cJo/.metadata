@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Role in Company",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "2cJossEy-kehIv95imiAeA",
+  "Reference": "5-uIzYoUE0CLJI6DiTjEAQ/2cJossEy-kehIv95imiAeA",
+  "ParentRef": "5-uIzYoUE0CLJI6DiTjEAQ/Ti-y7zTBtkiLJp9dxIkCew",
+  "Created": "2025-01-16T03:19:42.3121065Z",
+  "Updated": "2025-01-16T03:19:42.3121065Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
