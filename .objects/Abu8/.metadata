@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Chrome 20 Use Case Series Day-02",
+  "Type": "App",
+  "Id": "Abu8eI4qH0KJs2lnHL-q-g",
+  "Reference": "5-uIzYoUE0CLJI6DiTjEAQ/Abu8eI4qH0KJs2lnHL-q-g",
+  "Created": "2025-01-21T07:22:53.1775961Z",
+  "Updated": "2025-01-21T07:22:53.1775961Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.10.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

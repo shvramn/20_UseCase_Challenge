@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryScreenData ContentHash="w2Wa4QhbUEWC9_DAaa3nhw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryScreenData.Data>
+    <TargetApp x:Key="TargetApp" Area="-8, -8, 1936, 1048" BrowserType="Chrome" IconBase64="iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAIGNIUk0AAHolAACAgwAA+f8AAIDpAAB1MAAA6mAAADqYAAAXb5JfxUYAAAAJcEhZcwAACxIAAAsSAdLdfvwAAAA4SURBVDhPY0i32n4AiP+TifeDDMAmQTQeZAbAADIbG0DWQ10DyMGjXhh0XiAHU8WA/eiCxOPtuwEl0a7qam5sogAAAABJRU5ErkJggg==" Selector="&lt;html app='chrome.exe' title='20 Use Case Series Day-02' /&gt;" Title="20 Use Case Series Day-02" Url="https://docs.google.com/forms/d/e/1FAIpQLSfRNjgNx61Do3-0kB046yC1YvGYbmAR8MK8OwYhxki5GGwC7g/viewform" Version="V1">
+      <imageRef attrName="InformativeScreenshot" originalValue="1b97466bcd54e610e464cad5337dfce4.jpg" xmlns="">0lQZGDEKgJUqvKeERVM80Zw</imageRef>
+    </TargetApp>
+  </ObjectRepositoryScreenData.Data>
+</ObjectRepositoryScreenData>

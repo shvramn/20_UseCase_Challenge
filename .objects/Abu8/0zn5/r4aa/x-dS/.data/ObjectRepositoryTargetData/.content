@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="TaVS7-OEeEeXXuak1J1HfQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="docs.google.com/forms/d/e/1FAIpQLScYy8ebyjpKyw-0l8s4peK-m2VimaSWejzXwbBXGd4A-Iy2Ow/viewform" DesignTimeRectangle="665, 825, 295, 24" DesignTimeScaleFactor="1" Guid="058b6306-245f-46c4-aae5-f1bd45600f44" ScopeSelectorArgument="&lt;html app='chrome.exe' title='20 Use cases challenge learning sprint Day-2/cohost-Visakhapatnam' /&gt;" SearchSteps="Semantic" SemanticElementType="InputBox" SemanticTextArgument="%[&quot;Enter Text *&quot;]" TargetType="SemanticBased" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="d6e7862621b3ce9087bf077fc55353eb.png" xmlns="">0p-5MHcVVlEynOMkt0H9cMg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">SetValue</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

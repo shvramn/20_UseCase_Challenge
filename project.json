@@ -7,6 +7,7 @@
     "UiPath.DocumentUnderstanding.Activities": "[2.13.2-preview]",
     "UiPath.DocumentUnderstanding.ML.Activities": "[1.32.0-preview]",
     "UiPath.Excel.Activities": "[2.24.4]",
+    "UiPath.Form.Activities": "[24.10.5]",
     "UiPath.IntelligentOCR.Activities": "[6.23.2-preview]",
     "UiPath.Mail.Activities": "[1.24.2]",
     "UiPath.System.Activities": "[24.10.7]",

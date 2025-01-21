@@ -1,0 +1,14 @@
+﻿{
+  "Name": "MultipleChoices ",
+  "Type": "Element",
+  "TaxonomyType": "RadioButton",
+  "Id": "xAFHVFvCokmNEFLnvGP6mg",
+  "Reference": "5-uIzYoUE0CLJI6DiTjEAQ/xAFHVFvCokmNEFLnvGP6mg",
+  "ParentRef": "5-uIzYoUE0CLJI6DiTjEAQ/r4aaVP3Sp0e6l9xm4kO4FA",
+  "Created": "2025-01-21T07:30:50.0977035Z",
+  "Updated": "2025-01-21T07:30:50.0977035Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.10.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

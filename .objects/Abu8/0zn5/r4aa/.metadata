@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome 20 Use cases challenge learning sprint",
+  "Type": "Screen",
+  "Id": "r4aaVP3Sp0e6l9xm4kO4FA",
+  "Reference": "5-uIzYoUE0CLJI6DiTjEAQ/r4aaVP3Sp0e6l9xm4kO4FA",
+  "ParentRef": "5-uIzYoUE0CLJI6DiTjEAQ/0zn5sg45OEOijvII-YuMRQ",
+  "Created": "2025-01-21T07:27:15.6501708Z",
+  "Updated": "2025-01-21T07:27:15.6501708Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.10.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

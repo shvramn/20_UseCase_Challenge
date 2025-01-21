@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="R3qsOTz1bEy2UcrOL739dw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="docs.google.com/forms/d/e/1FAIpQLScYy8ebyjpKyw-0l8s4peK-m2VimaSWejzXwbBXGd4A-Iy2Ow/viewform" CVScreenId="8fed6e0f-8eab-424e-8196-a581d3ca8fdb" DesignTimeRectangle="640, 896, 95, 36" DesignTimeScaleFactor="1" FullSelectorArgument="&lt;webctrl css-selector='body&amp;gt;div&amp;gt;div&amp;gt;form&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;span' tag='SPAN' /&gt;" Guid="8569d159-b9fd-4b81-acbf-0860736101c4" ScopeSelectorArgument="&lt;html app='chrome.exe' title='20 Use cases challenge learning sprint Day-2/cohost-Visakhapatnam' /&gt;" SearchSteps="Selector" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="d604ae90d171ec6c793a5c53bd5b8c7c.png" xmlns="">0zHwId3c9nU-oWpCYV3o2EQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

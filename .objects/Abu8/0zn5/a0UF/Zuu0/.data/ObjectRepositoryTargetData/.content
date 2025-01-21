@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="JPToF04IhUacI0yP88F3WQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="docs.google.com/forms/d/e/1FAIpQLSfRNjgNx61Do3-0kB046yC1YvGYbmAR8MK8OwYhxki5GGwC7g/viewform" CVScreenId="a67a620e-725c-48ca-8288-b5b26a497202" DesignTimeRectangle="640, 836, 95, 36" DesignTimeScaleFactor="1" FullSelectorArgument="&lt;webctrl css-selector='body&amp;gt;div&amp;gt;div&amp;gt;form&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;span' tag='SPAN' /&gt;" Guid="c62a2ee1-cba0-4547-bd81-5401e6bfc5a8" ScopeSelectorArgument="&lt;html app='chrome.exe' title='20 Use Case Series Day-02' /&gt;" SearchSteps="Selector" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="1dc5e309dc2314379382f6bd1b1c091f.png" xmlns="">06GPKrNIlsECrnB8jcIBOFA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

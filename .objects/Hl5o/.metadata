@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Chrome DataTables  Javascript table library",
+  "Type": "App",
+  "Id": "Hl5okmPgMk63jUzvtJcSuQ",
+  "Reference": "5-uIzYoUE0CLJI6DiTjEAQ/Hl5okmPgMk63jUzvtJcSuQ",
+  "Created": "2025-01-21T06:47:32.7944032Z",
+  "Updated": "2025-01-21T06:47:32.7944032Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.10.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

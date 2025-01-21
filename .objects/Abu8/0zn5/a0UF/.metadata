@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome 20 Use Case Series Day-02",
+  "Type": "Screen",
+  "Id": "a0UF8HSUn0Wz-qj4FRuOaQ",
+  "Reference": "5-uIzYoUE0CLJI6DiTjEAQ/a0UF8HSUn0Wz-qj4FRuOaQ",
+  "ParentRef": "5-uIzYoUE0CLJI6DiTjEAQ/0zn5sg45OEOijvII-YuMRQ",
+  "Created": "2025-01-21T07:22:53.205451Z",
+  "Updated": "2025-01-21T07:22:53.205451Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.10.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
