@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Avatar more_vertIn the …",
+  "Type": "Element",
+  "Id": "tb-MMZMyNECsTnUVQ1xQNg",
+  "Reference": "5-uIzYoUE0CLJI6DiTjEAQ/tb-MMZMyNECsTnUVQ1xQNg",
+  "ParentRef": "5-uIzYoUE0CLJI6DiTjEAQ/AL4sAXH5b068S94d_6YNHQ",
+  "Created": "2025-01-21T22:39:55.8671713Z",
+  "Updated": "2025-01-21T22:39:55.8671713Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.10.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
