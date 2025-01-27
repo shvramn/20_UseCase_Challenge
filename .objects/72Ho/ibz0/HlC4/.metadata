@@ -1,0 +1,15 @@
+﻿{
+  "Name": "ApplyScreen",
+  "Type": "Screen",
+  "Id": "HlC4fKnz1UyIXriabtv4-A",
+  "Reference": "5-uIzYoUE0CLJI6DiTjEAQ/HlC4fKnz1UyIXriabtv4-A",
+  "ParentRef": "5-uIzYoUE0CLJI6DiTjEAQ/ibz0d6ysJkiRQXOad7LN1Q",
+  "Created": "2025-01-27T01:46:23.4208837Z",
+  "Updated": "2025-01-27T01:46:29.284779Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

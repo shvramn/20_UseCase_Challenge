@@ -1,0 +1,16 @@
+﻿{
+  "Name": "Loan Request Status",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "7uxCZYU_fUOwlUbvwwjGrg",
+  "Reference": "5-uIzYoUE0CLJI6DiTjEAQ/7uxCZYU_fUOwlUbvwwjGrg",
+  "ParentRef": "5-uIzYoUE0CLJI6DiTjEAQ/mXlYGEM380SlkVr_bXo3Jg",
+  "Created": "2025-01-24T03:18:08.1541819Z",
+  "Updated": "2025-01-24T03:18:30.6528099Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

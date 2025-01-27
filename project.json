@@ -2,16 +2,17 @@
   "name": "20_UseCaseChallenge",
   "projectId": "1d0f25ad-2d94-4380-b70c-d3b95cd32e00",
   "description": "Blank Process",
-  "main": "Case_1.xaml",
+  "main": "20UseCaseWorkFlows\\Case_1.xaml",
   "dependencies": {
     "UiPath.DocumentUnderstanding.ML.Activities": "[1.31.2]",
     "UiPath.Excel.Activities": "[2.24.4]",
     "UiPath.Form.Activities": "[24.10.5]",
     "UiPath.IntelligentOCR.Activities": "[6.22.0]",
     "UiPath.Mail.Activities": "[1.24.2]",
-    "UiPath.System.Activities": "[24.10.7]",
+    "UiPath.System.Activities": "[24.12.1-preview]",
     "UiPath.Testing.Activities": "[24.10.3]",
     "UiPath.UIAutomation.Activities": "[24.10.10]",
+    "UiPath.WebAPI.Activities": "[1.21.0]",
     "UiPath.Word.Activities": "[1.20.3]"
   },
   "webServices": [],
@@ -47,14 +48,29 @@
     "processOptions": {
       "ignoredFiles": []
     },
-    "fileInfoCollection": [],
+    "fileInfoCollection": [
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "a611ff3c-e1b7-444d-8456-9a5f5f09cf43",
+        "testCaseType": "TestCase",
+        "executionTemplateInvokeIsolated": false,
+        "fileName": "TestCase - Validate Senior Rejection.xaml"
+      },
+      {
+        "editingStatus": "InProgress",
+        "testCaseId": "afbd264c-17fa-4843-b72b-821df9948f37",
+        "testCaseType": "TestCase",
+        "executionTemplateInvokeIsolated": false,
+        "fileName": "TestCase - Approve Mid- Age Loan.xaml"
+      }
+    ],
     "saveToCloud": false
   },
   "expressionLanguage": "VisualBasic",
   "entryPoints": [
     {
-      "filePath": "Case_1.xaml",
-      "uniqueId": "a34b590c-5c8f-4a35-99da-ac5b7c8baec9",
+      "filePath": "20UseCaseWorkFlows\\Case_1.xaml",
+      "uniqueId": "62f8276c-a224-4be0-b9f2-48db1b81e0c6",
       "input": [],
       "output": []
     }

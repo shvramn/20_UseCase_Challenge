@@ -1,3 +1,9 @@
 {
-  "issueKeyTestcaseValues": {}
+  "issueKeyTestcaseValues": {},
+  "testManagerBasePath": "https://cloud.uipath.com/spshiva/DefaultTenant/testmanager_",
+  "defaultProject": {
+    "id": "a88b1e4a-c750-0000-b436-0b47ca189cf2",
+    "name": "UiBank_Loan_Testing",
+    "key": "UBLT"
+  }
 }

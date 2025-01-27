@@ -1,0 +1,16 @@
+﻿{
+  "Name": "Click Apply for a loan",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Id": "0UjGbFqC10WjtkkdITYILQ",
+  "Reference": "5-uIzYoUE0CLJI6DiTjEAQ/0UjGbFqC10WjtkkdITYILQ",
+  "ParentRef": "5-uIzYoUE0CLJI6DiTjEAQ/uX457Sej50GObAKw8Xyr9g",
+  "Created": "2025-01-24T03:09:48.1914232Z",
+  "Updated": "2025-01-24T03:09:55.9221687Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
