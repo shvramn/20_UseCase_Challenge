@@ -4,11 +4,14 @@
   "description": "Blank Process",
   "main": "20UseCaseWorkFlows\\Case_1.xaml",
   "dependencies": {
+    "UiPath.DocumentUnderstanding.Activities": "[2.13.2-preview]",
     "UiPath.DocumentUnderstanding.ML.Activities": "[1.31.2]",
     "UiPath.Excel.Activities": "[2.24.4]",
     "UiPath.Form.Activities": "[24.10.5]",
-    "UiPath.IntelligentOCR.Activities": "[6.22.0]",
+    "UiPath.GSuite.Activities": "[2.8.23]",
+    "UiPath.IntelligentOCR.Activities": "[6.22.1]",
     "UiPath.Mail.Activities": "[1.24.2]",
+    "UiPath.PDF.Activities": "[3.20.2]",
     "UiPath.System.Activities": "[24.12.1-preview]",
     "UiPath.Testing.Activities": "[24.10.3]",
     "UiPath.UIAutomation.Activities": "[24.10.10]",
@@ -71,6 +74,12 @@
     {
       "filePath": "20UseCaseWorkFlows\\Case_1.xaml",
       "uniqueId": "62f8276c-a224-4be0-b9f2-48db1b81e0c6",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "20UseCaseWorkFlows\\Case_12.xaml",
+      "uniqueId": "b453f2e2-b6db-420b-8668-b749a6f7317b",
       "input": [],
       "output": []
     }
